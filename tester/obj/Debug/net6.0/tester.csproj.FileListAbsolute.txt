@@ -1,0 +1,9 @@
+/Users/bushrahussain/Projects/tester/tester/obj/Debug/net6.0/tester.csproj.AssemblyReference.cache
+/Users/bushrahussain/Projects/tester/tester/obj/Debug/net6.0/tester.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bushrahussain/Projects/tester/tester/obj/Debug/net6.0/tester.AssemblyInfoInputs.cache
+/Users/bushrahussain/Projects/tester/tester/obj/Debug/net6.0/tester.AssemblyInfo.cs
+/Users/bushrahussain/Projects/tester/tester/obj/Debug/net6.0/tester.csproj.CoreCompileInputs.cache
+/Users/bushrahussain/Projects/tester/tester/obj/Debug/net6.0/tester.MvcApplicationPartsAssemblyInfo.cs
+/Users/bushrahussain/Projects/tester/tester/obj/Debug/net6.0/tester.MvcApplicationPartsAssemblyInfo.cache
+/Users/bushrahussain/Projects/tester/tester/obj/Debug/net6.0/tester.RazorAssemblyInfo.cache
+/Users/bushrahussain/Projects/tester/tester/obj/Debug/net6.0/tester.RazorAssemblyInfo.cs
